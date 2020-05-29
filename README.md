@@ -105,6 +105,7 @@ outpu,
 <p align="center">
   <img src="http://modal.rakibhstu.com/assets/demo/style-1-demo.jpg">
 </p>
+
 ### Customization
 You can change color as well as mixup the desings with other variants. Suppose, you want to change theme color of **style 1**. Pick the color hex code. replace the color value in `:root{}` selector. We assume your selected color hex code is `#607D8B`
 
