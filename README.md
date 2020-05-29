@@ -1,4 +1,5 @@
-# Login Registration Modal Form - Bootstrap 4.0 ([demo](http://modal.rakibhstu.com/))
+# Login Registration Modal Form - Bootstrap 4.0
+Click to see live demo [here](http://modal.rakibhstu.com/) or edit preview in  [Codepen](https://codepen.io/rakibhstu/project/editor/Xawarw)
 
 Modern bootstrap login and registration forms design.
 
@@ -19,7 +20,7 @@ Modern bootstrap login and registration forms design.
 
 ### Installation
 
-Include Bootstrap 4, font awesome and jQuery library. Add css files in head and scripts before ending of body tag
+Include Bootstrap 4, font awesome and jQuery library. Add css files in head and scripts before ending of body tag. **If you integrate with laravel, no need to include external scripts. It is compatible with app.css and app.js** 
 
 ```html
 <!DOCTYPE html>
@@ -39,7 +40,7 @@ Include Bootstrap 4, font awesome and jQuery library. Add css files in head and 
 </body>
 </html>
 ```
-Select a design you want to integrate. Open index.html file and select code from your desired design. Suppose you have selected modal style 1, then copy & paste the code
+Select a design you want to integrate. Open index.html file and select code from your desired design. Suppose you have selected **modal style 1**, then copy & paste the code as follows-
 
 ```html
 <!--modal style 1 start -->
@@ -55,7 +56,7 @@ Select a design you want to integrate. Open index.html file and select code from
 	</div>
 <!--modal style 1 end -->
 ```
-now add this anchor tags anywhere in menu. Dont forget to add data-toggle="modal" attribute
+now add this anchor tags `<a></a>` anywhere in menu. Dont forget to add `data-toggle="modal"` attribute
 ```html
 <!-- action button for modal style 1 start -->
 <a href="#loginModal1" data-toggle="modal" class="btn btn-primary text-white"> Login</a>
@@ -63,7 +64,7 @@ now add this anchor tags anywhere in menu. Dont forget to add data-toggle="modal
 <!-- action button for modal style 1 end -->
 ```
 
-And finally you have to include css. Open style.css from assets/css/ directory. Copy and paste the code into your own css file. You can easily change theme color from css. Change color in :root {} selector
+And finally you have to include css. Open **style.css** from `assets/css/ directory`. Copy and paste the code into your own css file. You can easily change theme color from css. Change color in `:root {}` selector
 ```css
 :root {
     --color-facebook: #3b5998;
@@ -81,7 +82,7 @@ And finally you have to include css. Open style.css from assets/css/ directory. 
 ```
 
 ### Swith to Dark or Light
-It is very easy to switch between light or dark mode. In order to switch dark mode add an extra class dark. and for light mode remove dark class
+It is very easy to switch between light or dark mode. In order to switch dark mode add an extra class `dark`. and for light mode remove `dark` class
 
 ```html
 <!-- Dark Mode -->
@@ -100,15 +101,22 @@ It is very easy to switch between light or dark mode. In order to switch dark mo
 ........................................
 </div>
 ```
-
+outpu,
+<p align="center">
+  <img src="http://modal.rakibhstu.com/assets/demo/style-1-demo.jpg">
+</p>
 ### Customization
-You can change color as well as mixup the desings with other variants. Suppose, you want to change theme color of style 1. Pick the color hex code. replace the color value in :root{} selector. We assume your selected color hex code is #607D8B
+You can change color as well as mixup the desings with other variants. Suppose, you want to change theme color of **style 1**. Pick the color hex code. replace the color value in `:root{}` selector. We assume your selected color hex code is `#607D8B`
 
 ```css
 :root {
      --style-1-color: #607D8B;
 }
 ```
+now output will be,
+<p align="center">
+  <img src="http://modal.rakibhstu.com/style-1-demo-change.jpg">
+</p>
 
 
 ### Contribute
