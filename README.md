@@ -7,8 +7,8 @@ Modern bootstrap login and registration forms design.
   - Easy to customize
   - Well Documentation
   
- [![N|Solid](http://modal.rakibhstu.com/01_preview_1.jpg)](https://modal.rakibhstu.com/)
- [![N|Solid](http://modal.rakibhstu.com/05_preview_5.jpg)](https://modal.rakibhstu.com/)
+ [![N|Solid](https://rakibul.dev/demo/01_preview_1.jpg)](https://rakibul.dev/)
+ [![N|Solid](https://rakibul.dev/demo/05_preview_5.jpg)](https://rakibul.dev/)
 
 
 ### Requirements
@@ -103,7 +103,7 @@ It is very easy to switch between light or dark mode. In order to switch dark mo
 ```
 outpu,
 <p align="center">
-  <img src="http://modal.rakibhstu.com/assets/demo/style-1-demo.jpg">
+  <img src="https://rakibul.dev/demo/style-1-demo.jpg">
 </p>
 
 ### Customization
@@ -116,7 +116,7 @@ You can change color as well as mixup the desings with other variants. Suppose, 
 ```
 now output will be,
 <p align="center">
-  <img src="http://modal.rakibhstu.com/style-1-demo-change.jpg">
+  <img src="https://rakibul.dev/demo/style-1-demo-change.jpg">
 </p>
 
 
@@ -130,4 +130,4 @@ License
 MIT
 
 ### Designed By
-[![N|Solid](https://rakibhstu.com/images/logo.png)](https://rakibhstu.com/)
+[![N|Solid](https://rakibul.dev/images/logo.png)](https://rakibul.dev/)
