@@ -1,5 +1,5 @@
 # Login Registration Modal Form - Bootstrap 4.0
-Click to see live demo [here](http://modal.rakibhstu.com/) or edit preview in  [Codepen](https://codepen.io/rakibhstu/project/editor/Xawarw)
+Click to see live demo [here](https://rakibdevs.github.io/Login-Registration-Form-Bootstrap-4/) or edit preview in  [Codepen](https://codepen.io/rakibhstu/project/editor/Xawarw)
 
 Modern bootstrap login and registration forms design.
 
